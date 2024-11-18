@@ -1,1 +1,16 @@
-
+[
+    {
+        "title": "Negativetale - O.M.G",
+        "artist": "Nekoze",
+        "artist_link": "https://youtube.com/@kyphox1s?si=DtRk7B9b5Ln8nkyr",
+        "music_url": "https://raw.githubusercontent.com/ZenozYTx/Store/main/Scripts/Music%20Player/music.mp3",
+        "cover_art_url": "https://raw.githubusercontent.com/ZenozYTx/Store/main/Scripts/Music%20Player/cover.jpg"
+    },
+    {
+        "title": "Another Song",
+        "artist": "Another Artist",
+        "artist_link": "https://example.com/another",
+        "music_url": "https://raw.githubusercontent.com/ZenozYTx/Store/main/Scripts/Music%20Player/song2.mp3",
+        "cover_art_url": "https://raw.githubusercontent.com/ZenozYTx/Store/main/Scripts/Music%20Player/cover2.jpg"
+    }
+]
