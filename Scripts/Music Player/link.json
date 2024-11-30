@@ -12,5 +12,12 @@
         "artist_link": "https://example.com/another",
         "music_url": "https://github.com/ZenozYTx/Store/raw/refs/heads/main/Scripts/Music%20Player/Music/Sukuna%20domain%20theme%20slowed%20to%20perfection.mp3",
         "cover_art_url": "https://raw.githubusercontent.com/ZenozYTx/Store/main/Scripts/Music%20Player/cover2.jpg"
+    },
+    {
+        "title": "...",
+        "artist": "Got this from tiktok",
+        "artist_link": "https://www.tiktok.com/t/ZTYSVDTXy/",
+        "music_url": "https://github.com/ZenozYTx/Store/raw/refs/heads/main/Scripts/Music%20Player/Music/Sukuna%20domain%20theme%20slowed%20to%20perfection.mp3",
+        "cover_art_url": "https://raw.githubusercontent.com/ZenozYTx/Store/main/Scripts/Music%20Player/cover2.jpg"
     }
 ]
