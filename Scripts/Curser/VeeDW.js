@@ -1,0 +1,1 @@
+javascript:(function(){const p="https://github.com/ZenozYTx/Store/raw/refs/heads/main/files/DWveepointer.cur",d="https://github.com/ZenozYTx/Store/raw/refs/heads/main/files/DWveecursor.cur",b=document.body;b.style.cursor=b.style.cursor===`url(${p}), auto`?`url(${d}), auto`:`url(${p}), auto`})();
